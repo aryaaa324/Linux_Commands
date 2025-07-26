@@ -56,6 +56,7 @@ You can change or list available shells as needed.
 * `cat /etc/shells` – Lists available shells.
 
 ## 3. Bash Shell Functions
+> Theory: Functions in Bash are blocks of code that can be defined and reused throughout a shell session or script. They help modularize logic, accept parameters, and reduce redundancy in scripts.
 
 * `function greet() { echo "Hello $1"; }` – Defines a Bash function.
 * `greet Arya` – Calls the `greet` function with argument.
