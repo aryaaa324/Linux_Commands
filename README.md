@@ -43,8 +43,14 @@ This is a complete guide of essential Linux (Ubuntu) command-line utilities, cat
 * `exit` – Exits the shell.
 
 ## 2. Shell Types
+> Theory: Linux supports multiple types of shells, each with its own syntax and features. Common shells include:
+> - sh – Original Bourne Shell
+> - bash – Bourne Again Shell (default in Ubuntu)
+> - zsh – Advanced shell with scripting features
+> - ksh – Korn shell
+> - csh – C Shell
 
-
+You can change or list available shells as needed.
 * `echo $SHELL` – Displays the current shell.
 * `chsh -s /bin/bash` – Changes the login shell to Bash.
 * `cat /etc/shells` – Lists available shells.
