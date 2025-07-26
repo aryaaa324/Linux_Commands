@@ -1,3 +1,4 @@
+
 # Comprehensive Linux Ubuntu Command Reference
 
 This is a complete guide of essential Linux (Ubuntu) command-line utilities, categorized by topic, with command syntax and one-line explanations. At the end, you'll find a classification of Linux functionality areas.
