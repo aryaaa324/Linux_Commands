@@ -34,6 +34,7 @@ This is a complete guide of essential Linux (Ubuntu) command-line utilities, cat
 - [🧩 Linux Functional Categories Summary](#-linux-functional-categories-summary)
 ----
 ## 1. Introduction to Shell
+> Theory: The shell is a command-line interpreter that allows users to communicate with the Linux operating system. It reads user input, interprets it as commands, and passes them to the OS. It also supports scripting for automating repetitive tasks.
 
 * `echo "Hello World"` – Prints text to terminal.
 * `whoami` – Displays current username.
@@ -42,6 +43,7 @@ This is a complete guide of essential Linux (Ubuntu) command-line utilities, cat
 * `exit` – Exits the shell.
 
 ## 2. Shell Types
+
 
 * `echo $SHELL` – Displays the current shell.
 * `chsh -s /bin/bash` – Changes the login shell to Bash.
